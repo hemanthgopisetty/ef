@@ -30,7 +30,7 @@ const HomePageNavbar = () => {
                 About us
               </Link>
               <Link href={"/login"} className="px-2 py-1 text-[#00000099]">
-                FAQ's
+                FAQs
               </Link>
             </div>
 

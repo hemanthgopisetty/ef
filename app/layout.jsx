@@ -9,7 +9,7 @@ const hso = Hammersmith_One({
 });
 
 const pop = Poppins({
-  weight: ["500", "600"],
+  weight: ["500", "600","300"],
   variable: "--pop",
   subsets: ["latin"],
 });

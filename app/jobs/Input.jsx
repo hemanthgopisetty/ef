@@ -29,7 +29,7 @@ const Input = () => {
       <div className="flex items-center justify-center w-full ">
 
         <div className="flex items-center justify-center relative">
-          <input type="text" className="rounded-full w-[650px] p-2  m-1 outline-none text-[15px] font-pop leading-[22px] font-light" placeholder="Role: Google, Programmer" />
+          <input type="text" className="rounded-full w-[650px]  px-4 py-3  m-1 outline-none text-[15px] font-pop leading-[22px] font-light" placeholder="Role: Google, Programmer" />
           <div className="absolute right-2 top-2 bottom-2  px-2 py-1  rounded-full bg-[#5552FF]">
             <SvgSearchComponent />
           </div>
